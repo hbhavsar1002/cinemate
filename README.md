@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Cinemate
+Cinemate is an innovative and user-friendly web application designed to cater to movie enthusiasts by providing comprehensive and up-to-date information about movies. Leveraging modern technologies and APIs, Cinemate offers a seamless and immersive experience for users looking to discover, and explore their favorite movies.
 
 ## Available Scripts
 
